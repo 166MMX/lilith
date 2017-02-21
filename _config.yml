@@ -1,4 +1,4 @@
-theme: jekyll-theme-hacker
+theme: jekyll-theme-midnight
 title: "Lilith"
 description: "Lilith is a logging and access event viewer for the Logback logging framework."
 show_downloads: false
