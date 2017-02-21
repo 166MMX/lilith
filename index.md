@@ -21,8 +21,7 @@ Lilith V8.0.0 has been released on 2015-11-15!
 Download it now at [SourceForge][ext-sf-files]
 
 
-Are you running Mac OS X 10.8 and Lilith won't start?
-
+Are you running Mac OS X 10.8 and Lilith won't start?  
 Read [this][osx]!
 
 
