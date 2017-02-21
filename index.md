@@ -59,25 +59,13 @@ sub   4096R/C2D09CF4 2010-03-25
 
 [Screenshots][screenshots]
 
----
 
-© Copyright 2007-2015 Jörn Huxhorn
-
-[Home][index] - 
-[Privacy Policy / Datenschutzpolicy][privacy] - 
-[Imprint / Impressum][imprint] - 
-[App.net][ext-app-net] - 
-Bitcoin 19UjvmrDJMBcGDYQoFcrjYPqLRFPSwznZn
+{% include footer.md %}
 
 
 [osx]: osx.html
 [screenshots]: screenshots.html
-[index]: index.html
-[privacy]: privacy.html
-[imprint]: imprint.html
 
-
-[ext-app-net]: //alpha.app.net/lilithapp
 
 [ext-sf-files]: //sourceforge.net/projects/lilith/files/lilith/8.0.0
 
