@@ -1,7 +1,7 @@
 # Lilith
 
 
-<a class="twitter-timeline" href="//twitter.com/lilithapp">Tweets by lilithapp</a> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+<a href="//twitter.com/lilithapp" class="twitter-follow-button" data-show-count="false">Follow @lilithapp</a><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 
 Lilith is a logging and access event viewer for the Logback logging
