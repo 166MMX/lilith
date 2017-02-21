@@ -81,10 +81,10 @@ Bitcoin 19UjvmrDJMBcGDYQoFcrjYPqLRFPSwznZn
 
 [ext-sf-files]: //sourceforge.net/projects/lilith/files/lilith/8.0.0
 
-[ext-ohloh-btn]: /media/ohlo-70x23.png "I use this!"
+[ext-ohloh-btn]: media/ohlo-70x23.png "I use this!"
 [ext-ohloh-prj]: //www.ohloh.net/stack_entries/new?project_id=lilith "Support Lilith by adding it to your stack at Ohloh"
 
-[ext-flattr-btn]: /media/flattr-100x17.png "Flattr this"
+[ext-flattr-btn]: media/flattr-100x17.png "Flattr this"
 [ext-flattr-lnk]: //flattr.com/thing/15170/Lilith-Logging-and-AccessEvent-Monitor-for-Logback "Flattr this"
 
 [ext-yt-thumb]: //img.youtube.com/vi/R-VRDqMQwAg/0.jpg
