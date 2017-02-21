@@ -30,7 +30,7 @@ Are you running Mac OS X 10.8 and Lilith won't start?
 Read [this][osx]!
 
 [![][ext-ohloh-btn]][ext-ohloh-prj] 
-[![][ext-flattr-btn]][ext-flattr-prj]
+[![][ext-flattr-btn]][ext-flattr-lnk]
 
 ### View the presentation now...
 
