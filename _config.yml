@@ -1,0 +1,5 @@
+theme: jekyll-theme-hacker
+title: "Lilith"
+description: "Lilith is a logging and access event viewer for the Logback logging framework."
+show_downloads: false
+google_analytics: "UA-6980614-1"
