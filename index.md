@@ -36,7 +36,7 @@ Read [this][osx]!
 Feel free to contact me at contact[at]lilith.huxhorn.de.
 
 
----
+- - -
 
 Starting with Lilith 0.9.39, all sulky and lilith artifacts are signed.
 All previous releases have been signed with the same key in the git
@@ -52,7 +52,7 @@ uid                  Joern Huxhorn <contact [AT] lilith.huxhorn.de>
 sub   4096R/C2D09CF4 2010-03-25
 ```
 
----
+- - -
 
 [Screenshots][screenshots]
 
