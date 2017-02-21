@@ -1,5 +1,4 @@
 ## Privacy Policy
-
 This website uses Google Analytics, a web analytics service
 provided by Google, Inc. (“Google”).  Google Analytics uses
 “cookies”, which are text files placed on your computer, to
@@ -20,7 +19,7 @@ able to use the full functionality of this website.  By using
 this website, you consent to the processing of data about you
 by Google in the manner and for the purposes set out above.
 
-Source: [][analytics-tos-en]
+Source: [Google Analytics Bedingungen][analytics-tos-en]
 
 
 ## Datenschutzpolicy
@@ -47,9 +46,9 @@ die Nutzung dieser Website erklären Sie sich mit der Bearbeitung der über
 Sie erhobenen Daten durch Google in der zuvor beschriebenen Art und Weise
 und zu dem zuvor benannten Zweck einverstanden.
 
-Quelle: [][analytics-tos-de]
+Quelle: [Google Analytics Terms of Service][analytics-tos-de]
 
 {% include footer.md %}
 
-[analytics-tos-de]: //www.google.com/analytics/de-DE/tos.html "Google Analytics Bedingungen"
-[analytics-tos-en]: //www.google.com/analytics/en-GB/tos.html "Google Analytics Terms of Service"
+[analytics-tos-de]: //www.google.com/analytics/de-DE/tos.html
+[analytics-tos-en]: //www.google.com/analytics/en-GB/tos.html
