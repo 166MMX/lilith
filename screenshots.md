@@ -14,7 +14,7 @@
 
 {% include footer.md %}
 
-[historic-screenshots]: historic-screenshots.html
+[historic-screenshots]: historic-screenshots.md
 
 [global-view]: media/lilith-0.9.34-global-view.png
 [find-view]: media/lilith-0.9.34-find.png

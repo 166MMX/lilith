@@ -8,8 +8,8 @@
 [App.net][ext-app-net] - 
 Bitcoin 19UjvmrDJMBcGDYQoFcrjYPqLRFPSwznZn
 
-[index]: index.html
-[privacy]: privacy.html
-[imprint]: imprint.html
+[index]: index.md
+[privacy]: privacy.md
+[imprint]: imprint.md
 
 [ext-app-net]: //alpha.app.net/lilithapp

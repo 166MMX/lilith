@@ -58,8 +58,8 @@ sub   4096R/C2D09CF4 2010-03-25
 
 {% include footer.md %}
 
-[osx]: osx.html
-[screenshots]: screenshots.html
+[osx]: osx.md
+[screenshots]: screenshots.md
 
 
 [ext-sf-files]: //sourceforge.net/projects/lilith/files/lilith/8.0.0
