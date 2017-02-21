@@ -34,8 +34,8 @@ Read [this][osx]!
 
 [![][ext-yt-thumb]][ext-yt-lnk]
 
-
 Feel free to contact me at contact[at]lilith.huxhorn.de.
+
 
 ---
 
@@ -57,9 +57,7 @@ sub   4096R/C2D09CF4 2010-03-25
 
 [Screenshots][screenshots]
 
-
 {% include footer.md %}
-
 
 [osx]: osx.html
 [screenshots]: screenshots.html
