@@ -26,12 +26,12 @@ Read [this][osx]!
 
 
 <a href="//twitter.com/lilithapp" class="twitter-follow-button" data-show-count="false">Follow @lilithapp</a><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
-[![][ext-ohloh-btn]][ext-ohloh-prj] 
-[![][ext-flattr-btn]][ext-flattr-lnk]
+[![I use this!][ext-ohloh-btn]][ext-ohloh-prj] 
+[![Flattr this][ext-flattr-btn]][ext-flattr-lnk]
 
-### View the presentation now...
+### View the presentation now…
 
-[![][ext-yt-thumb]][ext-yt-lnk]
+[![Presentation video on YouTube][ext-yt-thumb]][ext-yt-lnk]
 
 Feel free to contact me at contact[at]lilith.huxhorn.de.
 
@@ -64,10 +64,10 @@ sub   4096R/C2D09CF4 2010-03-25
 
 [ext-sf-files]: //sourceforge.net/projects/lilith/files/lilith/8.0.0
 
-[ext-ohloh-btn]: media/ohlo-70x23.png "I use this!"
+[ext-ohloh-btn]: media/ohlo-70x23.png
 [ext-ohloh-prj]: //www.ohloh.net/stack_entries/new?project_id=lilith "Support Lilith by adding it to your stack at Ohloh"
 
-[ext-flattr-btn]: media/flattr-100x17.png "Flattr this"
+[ext-flattr-btn]: media/flattr-100x17.png
 [ext-flattr-lnk]: //flattr.com/thing/15170/Lilith-Logging-and-AccessEvent-Monitor-for-Logback "Flattr this"
 
 [ext-yt-thumb]: //img.youtube.com/vi/R-VRDqMQwAg/0.jpg
