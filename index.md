@@ -56,6 +56,11 @@ sub   4096R/C2D09CF4 2010-03-25
 
 [Screenshots][screenshots]
 
+- - -
+
+[![Open Hub project report for Lilith][ext-openhub-lilith-btn]][ext-openhub-lilith-lnk]  
+[![Open Hub project report for sulky][ext-openhub-sulky-btn]][ext-openhub-sulky-lnk]
+
 {% include footer.md %}
 
 [osx]: osx.md
@@ -66,6 +71,12 @@ sub   4096R/C2D09CF4 2010-03-25
 
 [ext-ohloh-btn]: media/ohlo-70x23.png
 [ext-ohloh-prj]: //www.ohloh.net/stack_entries/new?project_id=lilith "Support Lilith by adding it to your stack at Ohloh"
+
+[ext-openhub-lilith-lnk]: https://www.openhub.net/p/lilith?ref=Partner+Badge
+[ext-openhub-lilith-btn]: //www.openhub.net/p/lilith/widgets/project_partner_badge?format=png&ref=Partner+Badge
+
+[ext-openhub-sulky-lnk]: https://www.openhub.net/p/sulky?ref=Partner+Badge
+[ext-openhub-sulky-btn]: //www.openhub.net/p/sulky/widgets/project_partner_badge?format=png&ref=Partner+Badge
 
 [ext-flattr-btn]: media/flattr-100x17.png
 [ext-flattr-lnk]: //flattr.com/thing/15170/Lilith-Logging-and-AccessEvent-Monitor-for-Logback "Flattr this"
