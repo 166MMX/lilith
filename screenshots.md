@@ -1,3 +1,6 @@
+---
+title: "Lilith - Screenshots"
+---
 # Lilith
 
 ## Screenshots

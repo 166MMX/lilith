@@ -1,3 +1,6 @@
+---
+title: "Imprint / Impressum"
+---
 # Imprint / Impressum
 
 Ich übernehme keine Gewähr für die Aktualität, 
