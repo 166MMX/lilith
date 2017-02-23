@@ -25,7 +25,6 @@ Are you running Mac OS X 10.8 and Lilith won't start?
 Read [this][osx]!
 
 
-<a href="//twitter.com/lilithapp" class="twitter-follow-button" data-show-count="false">Follow @lilithapp</a><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 [![I use this!][ext-ohloh-btn]][ext-ohloh-prj] 
 [![Flattr this][ext-flattr-btn]][ext-flattr-lnk]
 
