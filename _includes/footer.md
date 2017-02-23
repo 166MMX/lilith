@@ -1,6 +1,5 @@
 - - -
 
-[![GitHub stars](//img.shields.io/github/stars/huxi/lilith.svg?style=social&label=Star)](//github.com/huxi/lilith)
 [![Travis](//img.shields.io/travis/huxi/lilith.svg)](//travis-ci.org/huxi/lilith)
 [![Coveralls](//img.shields.io/coveralls/huxi/lilith.svg)](//coveralls.io/r/huxi/lilith)
 [![SourceForge](//img.shields.io/sourceforge/dm/lilith.svg)](//sourceforge.net/projects/lilith/files/lilith/8.0.0/)
@@ -9,6 +8,7 @@
 [![Average time to resolve an issue](http://isitmaintained.com/badge/resolution/huxi/lilith.svg)](http://isitmaintained.com/project/huxi/lilith "Average time to resolve an issue")
 [![Percentage of issues still open](http://isitmaintained.com/badge/open/huxi/lilith.svg)](http://isitmaintained.com/project/huxi/lilith "Percentage of issues still open")
 
+[![GitHub stars](//img.shields.io/github/stars/huxi/lilith.svg?style=social&label=Star)](//github.com/huxi/lilith)
 [![Twitter Follow](//img.shields.io/twitter/follow/lilithapp.svg?style=social&label=Follow)](//twitter.com/lilithapp)
 [![Gratipay lilithapp](//img.shields.io/gratipay/user/lilithapp.svg)](//gratipay.com/~lilithapp/)
 
