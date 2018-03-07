@@ -4,9 +4,9 @@
 [![Coveralls](//img.shields.io/coveralls/huxi/lilith.svg)](//coveralls.io/r/huxi/lilith)
 [![SourceForge](//img.shields.io/sourceforge/dm/lilith.svg)](//sourceforge.net/projects/lilith/files/lilith/8.0.0/)
 [![License: GPL v3](//img.shields.io/badge/License-GPL%20v3-blue.svg)](//www.gnu.org/licenses/gpl-3.0)
-[![License: LGPL v3](https://img.shields.io/badge/License-LGPL%20v3-blue.svg)](http://www.gnu.org/licenses/lgpl-3.0)
-[![Average time to resolve an issue](http://isitmaintained.com/badge/resolution/huxi/lilith.svg)](http://isitmaintained.com/project/huxi/lilith "Average time to resolve an issue")
-[![Percentage of issues still open](http://isitmaintained.com/badge/open/huxi/lilith.svg)](http://isitmaintained.com/project/huxi/lilith "Percentage of issues still open")
+[![License: LGPL v3](//img.shields.io/badge/License-LGPL%20v3-blue.svg)](//www.gnu.org/licenses/lgpl-3.0)
+[![Average time to resolve an issue](//isitmaintained.com/badge/resolution/huxi/lilith.svg)](//isitmaintained.com/project/huxi/lilith "Average time to resolve an issue")
+[![Percentage of issues still open](//isitmaintained.com/badge/open/huxi/lilith.svg)](//isitmaintained.com/project/huxi/lilith "Percentage of issues still open")
 
 [![GitHub stars](//img.shields.io/github/stars/huxi/lilith.svg?style=social&label=Star)](//github.com/huxi/lilith)
 [![Twitter Follow](//img.shields.io/twitter/follow/lilithapp.svg?style=social&label=Follow)](//twitter.com/lilithapp)
